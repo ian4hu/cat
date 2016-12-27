@@ -1,0 +1,6 @@
+!com/dianping/cat/
+*.xml
+*.repositories
+!*.jar
+!*.war
+!*.pom
